@@ -1,1 +1,1 @@
-# Control_light_fan_with_temparature_sensor
+# Control_light_fan_with_tempareture_sensor
